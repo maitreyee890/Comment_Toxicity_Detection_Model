@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ### Files
 
-- `train.csv`: Dataset containing text and corresponding labels.
+- `train.csv`: Dataset taken from kaggle(https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge).
 - `Toxicity_model.ipynb`: The main notebook file.
 - `toxicity.h5`: Saved model file (generated after training).
 
